@@ -22,7 +22,7 @@ while datetrue:
 			dweekday=(d1+year).weekday()
 			doc.add_paragraph("Milestone of " + str(i)+ ' days on '+str(d1+year)+' on '+str(weekdays[dweekday]))
 		doc.add_paragraph("No of days old on your birthdays")
-		for i in range(1,100):
+		for i in range(1,101):
 			d3 = date(yyyy+i,mm,dd)
 			daysold=str((d3 - d1).days)
 			if str(i)[-1]=='1':
