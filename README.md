@@ -6,9 +6,8 @@ This is a python project. The primary goal of this project is to give informatio
 * Dates and days of 1000 days old, 2000 days old, etc in user's life .
 * Number of days old for every birthday till 100 years.
 * All these details will be written into document file.
-
 ## How project works?
-At first, user has to give two inputs. First one is user's name and second one is user's date of birth. The name is used to save the generated information to document file on the user's name. Date of birth is used to generate the information about user's milestones.
+At first, user has to give two inputs. First one is user's name and second one is user's date of birth. The name is used to save the generated information to document file on the user's name. Date of birth is used to generate the information about user's milestones. All the generated information is written into the document file. 
 ## Upcoming Features
 * Distance travelled by Light from user's birth to today.
 * Distance travelled by Sun from user's birth to today.
