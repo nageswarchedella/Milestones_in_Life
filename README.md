@@ -8,8 +8,3 @@ This is a python project. The primary goal of this project is to give informatio
 * All these details will be written into document file.
 ## How project works?
 At first, user has to give two inputs. First one is user's name and second one is user's date of birth. The name is used to save the generated information to document file on the user's name. Date of birth is used to generate the information about user's milestones. All the generated information is written into the document file. 
-## Upcoming Features
-* Distance travelled by Light from user's birth to today.
-* Distance travelled by Sun from user's birth to today.
-* Distance travelled by Earth from user's birth to today.
-* Distance travelled by Moon from user's birth to today.
