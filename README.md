@@ -13,4 +13,3 @@ At first, user has to give two inputs. First one is user's name and second one i
 * Distance travelled by Sun from user's birth to today.
 * Distance travelled by Earth from user's birth to today.
 * Distance travelled by Moon from user's birth to today.
-* Distance travelled by voyager 1 and voyager 2 from user's birth to today.
